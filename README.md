@@ -1,0 +1,1 @@
+ketik streamlit run dashboard.py di terminal
